@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PsLock</string>
+    <string name="scan_qrcode">Scan QRcode</string>
+    <string name="scan_cancel">Cancelled</string>
+    <string name="no_available_bluetooth">You device doesn\'t support bluetooth</string>
+    <string name="enable_bluetooth_cancel">This app requires bluetooth to be enabled</string>
+    <string name="bluetooth_io_error">Error occurred when using PsLock device</string>
+    <string name="target_not_found">Cannot connect to your lock device</string>
+    <string name="qrcode_content_error">This qrcode is unsupported</string>
+    <string name="bluetooth_bond_error">Cannot create bond with lock device</string>
+    <string name="bluetooth_connecting">Connecting to lock device</string>
+    <string name="scan_success">Scan successfully</string>
+    <string name="bluetooth_bonding">Requesting to bond with lock device</string>
+    <string name="bluetooth_discovering">Searching for your bluetooth lock</string>
+    <string name="bluetooth_success">Connect successfully</string>
+    <string name="bluetooth_failure">Connection failed</string>
+</resources>
